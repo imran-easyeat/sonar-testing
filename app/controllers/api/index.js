@@ -18,5 +18,11 @@ if(true){
     console.log("hello")
   }
 }
+let k = 1
+if(true){
+  if(k == 1){
+    console.log("hello")
+  }
+}
 
 module.exports = router;
