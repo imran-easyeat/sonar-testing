@@ -23,6 +23,5 @@ if(true){
   if(k == 1){
     console.log("hello")
   }
-}
 
 module.exports = router;
