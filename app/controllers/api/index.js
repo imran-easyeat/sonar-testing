@@ -15,6 +15,5 @@ if(true){
 let j = 1
 if(true && j == 1){
     console.log("hello")
-}
 
 module.exports = router;
