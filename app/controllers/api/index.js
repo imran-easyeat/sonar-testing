@@ -12,5 +12,11 @@ if(true){
     console.log("hello")
   }
 }
+let j = 1
+if(true){
+  if(j == 1){
+    console.log("hello")
+  }
+}
 
 module.exports = router;
